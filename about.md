@@ -1,33 +1,19 @@
 ---
 layout: page
 permalink: /about/
-title: About the Theme
-tags: [Jekyll, theme, modern, minimal, responsive]
+title: Sobre o Autor
+tags: [oracle, sobretheme, modern, minimal, responsive]
 image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: about-1.jpg
 share: true
 ---
 
-They say three times the charm, so here is another free responsive Jekyll theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. If you've used my previous themes most of this should be familiar territory...
+##Bernardo Vale 
 
-## What HPSTR brings to the table:
+ Graduado em Análise e Desenvolvimento de sistemas pela UTFPR-MD. Já atuou como Desenvolvedor Java e Oracle PL/SQL.
 
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Comments powered by [Disqus](http://disqus.com) if you choose to enable.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy
-* [Grunt](http://gruntjs.com) build script for easy theme development
+ Hoje Administrador de Banco de Dados Oracle na empresa [LB2 Consultoria](http://www.lb2.com.br) em Londrina-PR onde concede apoio técnico e consultoria em banco de dados Oracle (11g,10g e 9i) para indústrias, hospitais, telecom, usinas, agronegócio, entre outros segmentos.
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup" class="btn btn-info">Install the Theme</a></div>
+ Profissional certificado OCA (Oracle Certified Associate 11g Database) e articulista Oracle nas horas vagas.
 
-[^1]: Example: *domain.com/category-name/post-title*
+ Esta interessado em tomar um café e conversar sobre Oracle e infraestrutura? Entre em contato!
