@@ -1,8 +1,9 @@
 ---
 layout: post
-category : recovery
-tagline: "Nologging operations"
+description: "Nologging operations"
 tags : [recovery, oracle, tutorial, ORA-26040, ORA-01110, nologging ]
+share : true
+comments : true
 ---
 
 ## Cenário
