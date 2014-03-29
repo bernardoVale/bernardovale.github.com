@@ -8,7 +8,7 @@ comments : true
 
 ## Cenário
 
-Foram geradas algumas transações com a opção NOLOGGING, não foi feito um backup após a operação e por castigo divino perdemos o datafile corresponte.
+Foram geradas algumas transações com a opção NOLOGGING, não foi feito um backup após a operação e por castigo divino perdemos o datafile correspondente.
 
 ### Montagem do cenário exemplo
 
