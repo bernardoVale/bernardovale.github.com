@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nologging Operations
-description: "Recuperando após um DML nologging no Oracle"
+description: "Recuperando uma tabela após um DML nologging no Oracle"
 tags : [recovery, oracle, tutorial, ORA-26040, ORA-01110, nologging ]
 comments: true
 share: true
