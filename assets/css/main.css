@@ -4282,7 +4282,7 @@ body {
 
 .footer-wrapper {
   margin: 2em auto;
-  color: #555555;
+  color: #CCCCCC !important;
   text-align: center;
   *zoom: 1;
 }
@@ -4299,7 +4299,7 @@ body {
 }
 
 .footer-wrapper a {
-  color: #555555;
+  color: #cccccc;
 }
 
 .socialcount {
