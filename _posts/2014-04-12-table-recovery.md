@@ -608,21 +608,6 @@ Finished recover at 10-APR-14
 
 Optei por deixar todas as linhas do RMAN para fazermos alguns comentários sobre esse método de recovery.
 
-Esse modo de recovery asemelha-se muito ao recovery tablespace
-
-* Oracle cria uma instância auxiliar com as tablespaces SYSTEM,UNDO,TEMP e o set de tablespaces necessárias para o recovery.
-
-* Faz um point-in-time recovery na nova instância usando como parâmetro a nossa especificação.
-
-* Gera um datapump de todas as tabelas especificadas no comando
-
-* Importa os dados no banco target com excessão da clausula NOTABLEIMPORT
-
-# Conclusão
-
-Mais uma novidade do Oracle 12c que traz imenso alívio para os DBA's acostumados a resolver esse tipo de problema. Nossa vantagem agora é que podemos fazer um recovery sem a necessidade de voltar toda a tablespace.
-Optei por deixar todas as linhas do RMAN para fazermos alguns comentários sobre esse método de recovery.
-
 Esse modo de recovery assemelha-se muito ao recovery tablespace
 
 * Oracle cria uma instância auxiliar com as tablespaces SYSTEM,UNDO,TEMP e o set de tablespaces necessárias para o recovery.
