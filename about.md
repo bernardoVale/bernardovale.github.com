@@ -16,4 +16,11 @@ share: true
 
  Profissional certificado OCP (Oracle Certified Prefessional 11g Database) e articulista Oracle nas horas vagas.
 
+ <figure class="third">
+	<img src="/images/ocp.bmp" alt="">	
+	<img src="/images/oca.bmp" alt="">
+	<img src="/images/ocs.bmp" alt="">
+	<figcaption>Minhas Certificações.</figcaption>
+</figure> 
+
  Esta interessado em tomar um café e conversar sobre Oracle e infraestrutura? Entre em contato!
