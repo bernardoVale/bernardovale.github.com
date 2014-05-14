@@ -10,7 +10,7 @@ share: true
 ---
 
 <figure >
-	<img src="/images/table-recovery.jpg" alt="">
+	<img src="/images/table-recovery.jpg" alt="350">
 </figure>
 
 # Objetivo
